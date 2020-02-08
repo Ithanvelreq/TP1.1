@@ -31,7 +31,7 @@ public class GestionCourbe {
         APoint a = new APoint(100.0, 100.0);
         APoint b = new APoint(300.0, 100.0);
         APoint c = new APoint(200.0, 200.0);
-        APoint d = new APoint(100.0, 200.0);
+        APoint d = new APoint(100.0, 210.0);
         APoint [] tab1 = {a, b, c, d};
         APoint [] tab2 = {c, d, a};
         Cercle cer1 = new Cercle(a, 50);
